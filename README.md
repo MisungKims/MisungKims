@@ -9,7 +9,6 @@
 </h5> 
 
 <br>
-<br>
 
 <h3>🔨 Skills </h3>
 <h5>Languages</h5>
@@ -23,7 +22,7 @@
 <p>
 <img src="https://img.shields.io/badge/FireBase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>&nbsp </p>
 
-
+<br>
 
 <!--
 **MisungKims/MisungKims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
