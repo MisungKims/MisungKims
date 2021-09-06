@@ -7,7 +7,7 @@
 
 
 <h2>🔨 Skills </h2>
-<p align="center"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp </p>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 
 
 
