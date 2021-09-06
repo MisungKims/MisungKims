@@ -5,8 +5,8 @@
   💖 I love playing games!
   <br>
   🌱 I’m currently learning UE4.
-</h5>
-<a href="rlaaltjd67@gamil.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp <a href="https://blog.naver.com/paperhyun48"><img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp 
+</h5> 💬 Contact me <br>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rlaaltjd67@gamil.com"/></a>&nbsp <a href="https://blog.naver.com/paperhyun48"><img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp 
 
 <br>
 <br>
