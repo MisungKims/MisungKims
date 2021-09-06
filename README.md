@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 <p>💖 I love playing games!
+  <br>
 🌱 I’m currently learning UE4.
 
 💬 Contact me : misung0212@naver.com</p>
 
-<br><br>
+<br>
 
 <h2>🔨 Skills </h2>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
