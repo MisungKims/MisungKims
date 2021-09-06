@@ -6,8 +6,8 @@
   <br>
   💖 I love playing games!
   <br>
-  💬 Contact me : rlaaltjd67@gamil.com
-</h5> 
+  💬 Contact me : </h5> rlaaltjd67@gamil.com
+
 
 <br>
 
