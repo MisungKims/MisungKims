@@ -2,9 +2,9 @@
 <br>
 <h3>✨ Me ✨</h3>
 <h5>
-  💖 I love playing games!
-  <br>
   🌱 I’m currently learning UE4.
+  <br>
+  💖 I love playing games!
   <br>
   💬 Contact me : rlaaltjd67@gamil.com
 </h5> 
