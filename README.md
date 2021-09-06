@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+💖 I love playing games!
+🌱 I’m currently learning UE4.
+
+💬 Contact me : misung0212@naver.com
+
+<h1>🔨 Skills </h1>
+<p align="center"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp </p>
+
+
+
 <!--
 **MisungKims/MisungKims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
