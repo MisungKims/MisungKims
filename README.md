@@ -6,7 +6,7 @@
   <br>
   💖 I love playing games!
   <br>
-  💬 Contact me : rlaaltjd67@gamil.com </h5> 
+  💬 Contact me : <p><a href="rlaaltjd67@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></p> </h5> 
 
 
 <br>
