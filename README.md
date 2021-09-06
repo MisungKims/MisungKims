@@ -1,20 +1,22 @@
 ### Hi there 👋
 
-<p>💖 I love playing games!
+<h3>👧 Me 👧</h3>
+<p>
+  💖 I love playing games!
   <br>
-🌱 I’m currently learning UE4.
+  🌱 I’m currently learning UE4.
+</p>
+<a href="rlaaltjd67@gamil.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail%2B%2B&logoColor=white"/></a>&nbsp <a href="https://blog.naver.com/paperhyun48"><img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver%2B%2B&logoColor=white"/></a>&nbsp 
 
-💬 Contact me : misung0212@naver.com</p>
 
 <br>
 
-<h2>🔨 Skills </h2>
-<h3>PlatForm</h3>
+<h3>🔨 Skills </h3>
+<h5>PlatForm</h5>
 <p>
-<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine%2B%2B&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio%2B%2B&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE%2B%2B&logoColor=white"/></a>&nbsp </p>
+<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=Unreal Engine%2B%2B&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android Studio%2B%2B&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=EclipseIDE%2B%2B&logoColor=white"/></a>&nbsp </p>
 
-<br>  
-<h3>Languege</h3>
+<h5>Languege</h5>
 <p>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/></a>&nbsp <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>&nbsp </p>
 
