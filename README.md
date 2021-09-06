@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<br>
 <h3>👧 Me 👧</h3>
 <p>
   💖 I love playing games!
@@ -14,7 +14,7 @@
 <h3>🔨 Skills </h3>
 <h5>PlatForm</h5>
 <p>
-<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=Unreal Engine%2B%2B&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android Studio%2B%2B&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=EclipseIDE%2B%2B&logoColor=white"/></a>&nbsp </p>
+<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo="Unreal Engine"%2B%2B&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo="Android Studio"%2B%2B&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/"Eclipse IDE"-2C2255?style=flat-square&logo=EclipseIDE%2B%2B&logoColor=white"/></a>&nbsp </p>
 
 <h5>Languege</h5>
 <p>
