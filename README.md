@@ -21,8 +21,6 @@
 <p>
 <img src="https://img.shields.io/badge/FireBase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>&nbsp </p> 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MisungKims&show_icons=true&theme=radical)
 <br>
 
 <!--
