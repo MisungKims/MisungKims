@@ -2,9 +2,8 @@
 <h3>✨ Me ✨</h3>
 <h4>
  - 📝 I majored in computer science engineering. <br>
- - 🌱 I’m currently learning Unity. <br>
  - 💖 I love playing games!  <br>
- - 💬 Contact rlaaltjd67@gmail.com </h4> 
+ - 💬 Contact altjd67@naver.com </h4> 
 
 
 <br>
